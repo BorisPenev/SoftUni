@@ -1,1 +1,1 @@
-Sample <I added something new> testing text
+Updating from Bash..
