@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\02.Github-Exercises\01.Intro-Programming\bin\Debug\01.Intro-Programming.exe.config
+C:\Users\xXx\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\02.Github-Exercises\01.Intro-Programming\bin\Debug\01.Intro-Programming.exe
+C:\Users\xXx\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\02.Github-Exercises\01.Intro-Programming\bin\Debug\01.Intro-Programming.pdb
+C:\Users\xXx\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\02.Github-Exercises\01.Intro-Programming\obj\Debug\01.Which-is-Greater.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\02.Github-Exercises\01.Intro-Programming\obj\Debug\01.Intro-Programming.exe
+C:\Users\xXx\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\02.Github-Exercises\01.Intro-Programming\obj\Debug\01.Intro-Programming.pdb
