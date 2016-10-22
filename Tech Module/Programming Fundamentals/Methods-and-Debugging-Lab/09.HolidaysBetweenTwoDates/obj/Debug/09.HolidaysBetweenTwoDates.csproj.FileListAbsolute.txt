@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\09.HolidaysBetweenTwoDates\bin\Debug\09.HolidaysBetweenTwoDates.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\09.HolidaysBetweenTwoDates\obj\Debug\09.HolidaysBetweenTwoDates.pdb

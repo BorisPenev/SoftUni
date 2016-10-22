@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\09_IndexOfLetters\bin\Debug\09_IndexOfLetters.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\09_IndexOfLetters\obj\Debug\09_IndexOfLetters.pdb

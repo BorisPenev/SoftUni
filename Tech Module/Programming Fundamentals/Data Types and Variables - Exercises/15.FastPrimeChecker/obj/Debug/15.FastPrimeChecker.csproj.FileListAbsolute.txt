@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

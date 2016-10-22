@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\01_SweetDessert\bin\Debug\01_SweetDessert.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\01_SweetDessert\bin\Debug\01_SweetDessert.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\01_SweetDessert\bin\Debug\01_SweetDessert.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\01_SweetDessert\obj\Debug\01_SweetDessert.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\01_SweetDessert\obj\Debug\01_SweetDessert.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\01_SweetDessert\obj\Debug\01_SweetDessert.pdb

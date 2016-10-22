@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\07.GreaterOfTwoValues\bin\Debug\07.GreaterOfTwoValues.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\07.GreaterOfTwoValues\obj\Debug\07.GreaterOfTwoValues.pdb

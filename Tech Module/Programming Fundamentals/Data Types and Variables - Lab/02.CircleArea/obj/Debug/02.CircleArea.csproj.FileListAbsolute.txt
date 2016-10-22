@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\02.CircleArea\bin\Debug\02.CircleArea.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\02.CircleArea\bin\Debug\02.CircleArea.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\02.CircleArea\obj\Debug\02.CircleArea.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\02.CircleArea\obj\Debug\02.CircleArea.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\02.CircleArea\obj\Debug\02.CircleArea.pdb

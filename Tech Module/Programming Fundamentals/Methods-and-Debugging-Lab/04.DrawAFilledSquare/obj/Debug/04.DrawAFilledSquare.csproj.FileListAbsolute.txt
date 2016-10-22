@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\04.DrawAFilledSquare\bin\Debug\04.DrawAFilledSquare.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\04.DrawAFilledSquare\obj\Debug\04.DrawAFilledSquare.pdb

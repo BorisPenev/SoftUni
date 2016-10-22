@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\06.TriplesOfLetters\bin\Debug\06.TriplesOfLetters.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\06.TriplesOfLetters\bin\Debug\06.TriplesOfLetters.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\06.TriplesOfLetters\bin\Debug\06.TriplesOfLetters.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\06.TriplesOfLetters\obj\Debug\06.TriplesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\06.TriplesOfLetters\obj\Debug\06.TriplesOfLetters.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\06.TriplesOfLetters\obj\Debug\06.TriplesOfLetters.pdb

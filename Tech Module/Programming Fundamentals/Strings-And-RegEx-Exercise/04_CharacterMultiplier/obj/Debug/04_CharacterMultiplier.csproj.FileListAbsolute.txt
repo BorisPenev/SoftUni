@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\04_CharacterMultiplier\bin\Debug\04_CharacterMultiplier.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\04_CharacterMultiplier\bin\Debug\04_CharacterMultiplier.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\04_CharacterMultiplier\bin\Debug\04_CharacterMultiplier.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\04_CharacterMultiplier\obj\Debug\04_CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\04_CharacterMultiplier\obj\Debug\04_CharacterMultiplier.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\04_CharacterMultiplier\obj\Debug\04_CharacterMultiplier.pdb

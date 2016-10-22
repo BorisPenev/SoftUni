@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\04.NumbersInReversedOrder\bin\Debug\04.NumbersInReversedOrder.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\04.NumbersInReversedOrder\obj\Debug\04.NumbersInReversedOrder.pdb

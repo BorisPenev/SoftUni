@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\04_SieveOfEratosthenes\bin\Debug\04_SieveOfEratosthenes.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\04_SieveOfEratosthenes\bin\Debug\04_SieveOfEratosthenes.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\04_SieveOfEratosthenes\bin\Debug\04_SieveOfEratosthenes.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\04_SieveOfEratosthenes\obj\Debug\04_SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\04_SieveOfEratosthenes\obj\Debug\04_SieveOfEratosthenes.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\04_SieveOfEratosthenes\obj\Debug\04_SieveOfEratosthenes.pdb

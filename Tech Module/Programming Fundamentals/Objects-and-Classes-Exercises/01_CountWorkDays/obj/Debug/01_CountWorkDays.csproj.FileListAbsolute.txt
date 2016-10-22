@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\01_CountWorkDays\bin\Debug\01_CountWorkDays.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\01_CountWorkDays\bin\Debug\01_CountWorkDays.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\01_CountWorkDays\bin\Debug\01_CountWorkDays.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\01_CountWorkDays\obj\Debug\01_CountWorkDays.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\01_CountWorkDays\obj\Debug\01_CountWorkDays.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\01_CountWorkDays\obj\Debug\01_CountWorkDays.pdb

@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\04.TrippleSum\bin\Debug\04.TrippleSum.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\04.TrippleSum\bin\Debug\04.TrippleSum.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\04.TrippleSum\bin\Debug\04.TrippleSum.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\04.TrippleSum\obj\Debug\04.TrippleSum.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\04.TrippleSum\obj\Debug\04.TrippleSum.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\04.TrippleSum\obj\Debug\04.TrippleSum.pdb

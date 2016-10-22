@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\01_SoftuniCoffeeOrders\bin\Debug\01_SoftuniCoffeeOrders.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\01_SoftuniCoffeeOrders\bin\Debug\01_SoftuniCoffeeOrders.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\01_SoftuniCoffeeOrders\bin\Debug\01_SoftuniCoffeeOrders.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\01_SoftuniCoffeeOrders\obj\Debug\01_SoftuniCoffeeOrders.pdb

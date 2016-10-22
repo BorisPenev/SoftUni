@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\17.PrintPartOf_ASCII_Table\bin\Debug\17.PrintPartOf_ASCII_Table.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\17.PrintPartOf_ASCII_Table\bin\Debug\17.PrintPartOf_ASCII_Table.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\17.PrintPartOf_ASCII_Table\bin\Debug\17.PrintPartOf_ASCII_Table.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\17.PrintPartOf_ASCII_Table\obj\Debug\17.PrintPartOf_ASCII_Table.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\17.PrintPartOf_ASCII_Table\obj\Debug\17.PrintPartOf_ASCII_Table.pdb

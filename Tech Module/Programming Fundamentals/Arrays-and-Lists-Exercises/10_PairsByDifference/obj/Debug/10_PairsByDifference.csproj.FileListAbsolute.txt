@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\10_PairsByDifference\bin\Debug\10_PairsByDifference.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\10_PairsByDifference\bin\Debug\10_PairsByDifference.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\10_PairsByDifference\bin\Debug\10_PairsByDifference.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\10_PairsByDifference\obj\Debug\10_PairsByDifference.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\10_PairsByDifference\obj\Debug\10_PairsByDifference.pdb

@@ -1,0 +1,1 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseNToBaseTen\bin\Debug\01_ConvertFromBaseNToBaseTen.exe.config

@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\02_ArrayManipolator\bin\Debug\02_ArrayManipolator.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\02_ArrayManipolator\bin\Debug\02_ArrayManipolator.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\02_ArrayManipolator\bin\Debug\02_ArrayManipolator.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\02_ArrayManipolator\obj\Debug\02_ArrayManipolator.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\02_ArrayManipolator\obj\Debug\02_ArrayManipolator.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\02_ArrayManipolator\obj\Debug\02_ArrayManipolator.pdb

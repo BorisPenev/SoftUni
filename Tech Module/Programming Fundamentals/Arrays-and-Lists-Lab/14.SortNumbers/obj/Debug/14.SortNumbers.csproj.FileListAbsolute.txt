@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\14.SortNumbers\bin\Debug\14.SortNumbers.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\14.SortNumbers\bin\Debug\14.SortNumbers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\14.SortNumbers\bin\Debug\14.SortNumbers.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\14.SortNumbers\obj\Debug\14.SortNumbers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\14.SortNumbers\obj\Debug\14.SortNumbers.pdb

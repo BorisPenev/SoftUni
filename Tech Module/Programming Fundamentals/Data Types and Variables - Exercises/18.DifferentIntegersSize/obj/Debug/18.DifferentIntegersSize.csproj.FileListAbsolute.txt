@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\18.DifferentIntegersSize\bin\Debug\18.DifferentIntegersSize.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\18.DifferentIntegersSize\obj\Debug\18.DifferentIntegersSize.pdb

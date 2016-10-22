@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\03_CirclesIntersection\bin\Debug\03_CirclesIntersection.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\03_CirclesIntersection\bin\Debug\03_CirclesIntersection.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\03_CirclesIntersection\bin\Debug\03_CirclesIntersection.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\03_CirclesIntersection\obj\Debug\03_CirclesIntersection.pdb

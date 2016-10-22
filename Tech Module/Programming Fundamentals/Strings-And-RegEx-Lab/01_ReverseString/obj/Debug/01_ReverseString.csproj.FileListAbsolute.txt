@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\01_ReverseString\bin\Debug\01_ReverseString.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\01_ReverseString\bin\Debug\01_ReverseString.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\01_ReverseString\bin\Debug\01_ReverseString.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\01_ReverseString\obj\Debug\01_ReverseString.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\01_ReverseString\obj\Debug\01_ReverseString.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\01_ReverseString\obj\Debug\01_ReverseString.pdb

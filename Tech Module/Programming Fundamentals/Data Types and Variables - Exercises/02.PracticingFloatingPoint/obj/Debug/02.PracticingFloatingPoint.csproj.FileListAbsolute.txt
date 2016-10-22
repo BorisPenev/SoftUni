@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\02.PracticingFloatingPoint\bin\Debug\02.PracticingFloatingPoint.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\02.PracticingFloatingPoint\bin\Debug\02.PracticingFloatingPoint.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\02.PracticingFloatingPoint\bin\Debug\02.PracticingFloatingPoint.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\02.PracticingFloatingPoint\obj\Debug\02.PracticingFloatingPoint.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\02.PracticingFloatingPoint\obj\Debug\02.PracticingFloatingPoint.pdb

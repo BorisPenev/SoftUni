@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\19.TheaThePhotographer\bin\Debug\19.TheaThePhotographer.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\19.TheaThePhotographer\obj\Debug\19.TheaThePhotographer.pdb

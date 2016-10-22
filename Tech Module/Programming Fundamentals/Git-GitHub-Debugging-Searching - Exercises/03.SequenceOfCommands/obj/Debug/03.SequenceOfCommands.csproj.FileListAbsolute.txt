@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\03.SequenceOfCommands\bin\Debug\03.SequenceOfCommands.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\03.SequenceOfCommands\obj\Debug\03.SequenceOfCommands.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\03.SequenceOfCommands\bin\Debug\03.SequenceOfCommands.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\03.SequenceOfCommands\bin\Debug\03.SequenceOfCommands.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\03.SequenceOfCommands\obj\Debug\03.SequenceOfCommands.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\03.SequenceOfCommands\obj\Debug\03.SequenceOfCommands.pdb

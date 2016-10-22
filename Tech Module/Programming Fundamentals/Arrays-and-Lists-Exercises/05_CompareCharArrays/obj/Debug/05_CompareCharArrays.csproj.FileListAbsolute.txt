@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\05_CompareCharArrays\bin\Debug\05_CompareCharArrays.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\05_CompareCharArrays\bin\Debug\05_CompareCharArrays.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\05_CompareCharArrays\bin\Debug\05_CompareCharArrays.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\05_CompareCharArrays\obj\Debug\05_CompareCharArrays.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\05_CompareCharArrays\obj\Debug\05_CompareCharArrays.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\05_CompareCharArrays\obj\Debug\05_CompareCharArrays.csprojResolveAssemblyReference.cache

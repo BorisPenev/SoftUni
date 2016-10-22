@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\15.InstructionSet\bin\Debug\15.InstructionSet.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\15.InstructionSet\bin\Debug\15.InstructionSet.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\15.InstructionSet\bin\Debug\15.InstructionSet.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\15.InstructionSet\obj\Debug\15.InstructionSet.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\15.InstructionSet\obj\Debug\15.InstructionSet.pdb

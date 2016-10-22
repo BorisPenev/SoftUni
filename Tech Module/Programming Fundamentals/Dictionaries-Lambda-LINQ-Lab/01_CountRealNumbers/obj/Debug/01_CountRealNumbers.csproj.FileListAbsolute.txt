@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\01_CountRealNumbers\bin\Debug\01_CountRealNumbers.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\01_CountRealNumbers\bin\Debug\01_CountRealNumbers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\01_CountRealNumbers\bin\Debug\01_CountRealNumbers.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\01_CountRealNumbers\obj\Debug\01_CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\01_CountRealNumbers\obj\Debug\01_CountRealNumbers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\01_CountRealNumbers\obj\Debug\01_CountRealNumbers.pdb

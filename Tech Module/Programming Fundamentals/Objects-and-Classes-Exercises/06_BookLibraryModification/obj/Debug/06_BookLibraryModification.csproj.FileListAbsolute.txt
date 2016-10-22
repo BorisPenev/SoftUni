@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\06_BookLibraryModification\bin\Debug\06_BookLibraryModification.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\06_BookLibraryModification\bin\Debug\06_BookLibraryModification.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\06_BookLibraryModification\bin\Debug\06_BookLibraryModification.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\06_BookLibraryModification\obj\Debug\06_BookLibraryModification.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\06_BookLibraryModification\obj\Debug\06_BookLibraryModification.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\06_BookLibraryModification\obj\Debug\06_BookLibraryModification.pdb

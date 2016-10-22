@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\06.ReverseArrayOfStrings\bin\Debug\06.ReverseArrayOfStrings.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\06.ReverseArrayOfStrings\obj\Debug\06.ReverseArrayOfStrings.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\06.ReverseArrayOfStrings\obj\Debug\06.ReverseArrayOfStrings.pdb

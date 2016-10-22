@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\04.Substring\bin\Debug\04.Substring.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\04.Substring\bin\Debug\04.Substring.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\04.Substring\bin\Debug\04.Substring.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\04.Substring\obj\Debug\04.Substring.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\04.Substring\obj\Debug\04.Substring.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Git-GitHub-Debugging-Searching - Exercises\04.Substring\obj\Debug\04.Substring.pdb

@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Files-Directories-and-Exceptions-Lab\03_WordsCount\bin\Debug\03_WordsCount.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Files-Directories-and-Exceptions-Lab\03_WordsCount\bin\Debug\03_WordsCount.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Files-Directories-and-Exceptions-Lab\03_WordsCount\bin\Debug\03_WordsCount.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Files-Directories-and-Exceptions-Lab\03_WordsCount\obj\Debug\03_WordsCount.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Files-Directories-and-Exceptions-Lab\03_WordsCount\obj\Debug\03_WordsCount.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Files-Directories-and-Exceptions-Lab\03_WordsCount\obj\Debug\03_WordsCount.pdb

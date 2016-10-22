@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\02_AdvertisementMessage\bin\Debug\02_AdvertisementMessage.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Exercises\02_AdvertisementMessage\obj\Debug\02_AdvertisementMessage.pdb

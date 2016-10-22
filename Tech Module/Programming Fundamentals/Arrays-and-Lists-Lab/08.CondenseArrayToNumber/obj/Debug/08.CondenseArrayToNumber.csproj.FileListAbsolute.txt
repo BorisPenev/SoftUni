@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\08.CondenseArrayToNumber\bin\Debug\08.CondenseArrayToNumber.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\08.CondenseArrayToNumber\obj\Debug\08.CondenseArrayToNumber.pdb

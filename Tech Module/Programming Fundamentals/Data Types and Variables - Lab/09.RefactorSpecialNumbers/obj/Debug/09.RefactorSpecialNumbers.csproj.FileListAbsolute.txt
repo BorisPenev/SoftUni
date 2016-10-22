@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.pdb

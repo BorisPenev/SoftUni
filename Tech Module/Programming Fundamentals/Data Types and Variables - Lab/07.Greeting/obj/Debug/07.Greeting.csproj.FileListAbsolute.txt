@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\07.Greeting\bin\Debug\07.Greeting.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\07.Greeting\bin\Debug\07.Greeting.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\07.Greeting\bin\Debug\07.Greeting.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\07.Greeting\obj\Debug\07.Greeting.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\07.Greeting\obj\Debug\07.Greeting.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\07.Greeting\obj\Debug\07.Greeting.csprojResolveAssemblyReference.cache

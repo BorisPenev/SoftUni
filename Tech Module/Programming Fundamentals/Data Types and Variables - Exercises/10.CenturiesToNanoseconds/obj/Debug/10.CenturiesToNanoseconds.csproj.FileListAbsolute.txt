@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb

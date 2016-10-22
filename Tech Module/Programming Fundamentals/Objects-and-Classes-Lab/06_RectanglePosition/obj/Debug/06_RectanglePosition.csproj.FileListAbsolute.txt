@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\06_RectanglePosition\bin\Debug\06_RectanglePosition.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\06_RectanglePosition\bin\Debug\06_RectanglePosition.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\06_RectanglePosition\bin\Debug\06_RectanglePosition.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\06_RectanglePosition\obj\Debug\06_RectanglePosition.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\06_RectanglePosition\obj\Debug\06_RectanglePosition.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\06_RectanglePosition\obj\Debug\06_RectanglePosition.pdb

@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\03_RageQuit\bin\Debug\03_RageQuit.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\03_RageQuit\bin\Debug\03_RageQuit.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\03_RageQuit\bin\Debug\03_RageQuit.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\03_RageQuit\obj\Debug\03_RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\03_RageQuit\obj\Debug\03_RageQuit.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\03_RageQuit\obj\Debug\03_RageQuit.pdb

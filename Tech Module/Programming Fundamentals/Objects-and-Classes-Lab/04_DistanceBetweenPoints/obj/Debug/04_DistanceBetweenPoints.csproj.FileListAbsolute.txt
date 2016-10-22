@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\04_DistanceBetweenPoints\bin\Debug\04_DistanceBetweenPoints.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\04_DistanceBetweenPoints\bin\Debug\04_DistanceBetweenPoints.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\04_DistanceBetweenPoints\bin\Debug\04_DistanceBetweenPoints.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\04_DistanceBetweenPoints\obj\Debug\04_DistanceBetweenPoints.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\04_DistanceBetweenPoints\obj\Debug\04_DistanceBetweenPoints.pdb

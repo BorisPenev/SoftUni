@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\01.PracticeIntegers\bin\Debug\01.PracticeIntegers.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\01.PracticeIntegers\bin\Debug\01.PracticeIntegers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\01.PracticeIntegers\bin\Debug\01.PracticeIntegers.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\01.PracticeIntegers\obj\Debug\01.PracticeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\01.PracticeIntegers\obj\Debug\01.PracticeIntegers.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\01.PracticeIntegers\obj\Debug\01.PracticeIntegers.pdb

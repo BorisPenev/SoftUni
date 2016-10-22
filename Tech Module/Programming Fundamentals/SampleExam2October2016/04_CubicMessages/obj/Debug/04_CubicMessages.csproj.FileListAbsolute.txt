@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\04_CubicMessages\bin\Debug\04_CubicMessages.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\04_CubicMessages\bin\Debug\04_CubicMessages.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\04_CubicMessages\bin\Debug\04_CubicMessages.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\04_CubicMessages\obj\Debug\04_CubicMessages.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\04_CubicMessages\obj\Debug\04_CubicMessages.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\04_CubicMessages\obj\Debug\04_CubicMessages.pdb

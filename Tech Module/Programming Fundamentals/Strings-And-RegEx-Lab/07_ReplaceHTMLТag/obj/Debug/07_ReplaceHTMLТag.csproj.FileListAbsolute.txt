@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\07_ReplaceHTMLТag\bin\Debug\07_ReplaceHTMLТag.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\07_ReplaceHTMLТag\bin\Debug\07_ReplaceHTMLТag.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\07_ReplaceHTMLТag\bin\Debug\07_ReplaceHTMLТag.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\07_ReplaceHTMLТag\obj\Debug\07_ReplaceHTMLТag.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\07_ReplaceHTMLТag\obj\Debug\07_ReplaceHTMLТag.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\07_ReplaceHTMLТag\obj\Debug\07_ReplaceHTMLТag.pdb

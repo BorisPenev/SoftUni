@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\13_LongestIncreasingSubsequence\bin\Debug\13_LongestIncreasingSubsequence.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\13_LongestIncreasingSubsequence\bin\Debug\13_LongestIncreasingSubsequence.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\13_LongestIncreasingSubsequence\bin\Debug\13_LongestIncreasingSubsequence.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\13_LongestIncreasingSubsequence\obj\Debug\13_LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\13_LongestIncreasingSubsequence\obj\Debug\13_LongestIncreasingSubsequence.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\13_LongestIncreasingSubsequence\obj\Debug\13_LongestIncreasingSubsequence.pdb

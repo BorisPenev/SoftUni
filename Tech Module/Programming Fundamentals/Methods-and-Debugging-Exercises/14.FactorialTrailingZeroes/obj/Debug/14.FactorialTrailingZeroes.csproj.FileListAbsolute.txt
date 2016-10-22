@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\14.FactorialTrailingZeroes\bin\Debug\14.FactorialTrailingZeroes.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\14.FactorialTrailingZeroes\obj\Debug\14.FactorialTrailingZeroes.pdb

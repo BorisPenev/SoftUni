@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\03.PracticeCharactersAndStrings\bin\Debug\03.PracticeCharactersAndStrings.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\03.PracticeCharactersAndStrings\obj\Debug\03.PracticeCharactersAndStrings.pdb

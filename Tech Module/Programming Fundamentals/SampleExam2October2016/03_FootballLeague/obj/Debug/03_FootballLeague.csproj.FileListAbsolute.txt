@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\03_FootballLeague\bin\Debug\03_FootballLeague.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\03_FootballLeague\bin\Debug\03_FootballLeague.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\03_FootballLeague\bin\Debug\03_FootballLeague.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\03_FootballLeague\obj\Debug\03_FootballLeague.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\03_FootballLeague\obj\Debug\03_FootballLeague.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam2October2016\03_FootballLeague\obj\Debug\03_FootballLeague.csprojResolveAssemblyReference.cache

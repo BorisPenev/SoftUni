@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\11.AppendLists\bin\Debug\11.AppendLists.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\11.AppendLists\bin\Debug\11.AppendLists.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\11.AppendLists\bin\Debug\11.AppendLists.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\11.AppendLists\obj\Debug\11.AppendLists.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\11.AppendLists\obj\Debug\11.AppendLists.pdb

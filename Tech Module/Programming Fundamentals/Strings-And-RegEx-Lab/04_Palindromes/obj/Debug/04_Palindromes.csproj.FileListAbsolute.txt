@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\04_Palindromes\bin\Debug\04_Palindromes.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\04_Palindromes\bin\Debug\04_Palindromes.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\04_Palindromes\bin\Debug\04_Palindromes.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\04_Palindromes\obj\Debug\04_Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\04_Palindromes\obj\Debug\04_Palindromes.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\04_Palindromes\obj\Debug\04_Palindromes.pdb

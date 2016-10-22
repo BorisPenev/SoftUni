@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb

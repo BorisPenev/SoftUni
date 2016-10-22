@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\08.RefactorVolumeOfPyramid\bin\Debug\08.RefactorVolumeOfPyramid.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Data Types and Variables - Lab\08.RefactorVolumeOfPyramid\obj\Debug\08.RefactorVolumeOfPyramid.pdb

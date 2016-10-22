@@ -1,0 +1,1 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\02_MinMaxSumAverage\bin\Debug\02_MinMaxSumAverage.exe.config

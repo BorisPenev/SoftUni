@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\13.SplitByWordCasing\bin\Debug\13.SplitByWordCasing.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\13.SplitByWordCasing\bin\Debug\13.SplitByWordCasing.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\13.SplitByWordCasing\bin\Debug\13.SplitByWordCasing.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\13.SplitByWordCasing\obj\Debug\13.SplitByWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\13.SplitByWordCasing\obj\Debug\13.SplitByWordCasing.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Lab\13.SplitByWordCasing\obj\Debug\13.SplitByWordCasing.pdb

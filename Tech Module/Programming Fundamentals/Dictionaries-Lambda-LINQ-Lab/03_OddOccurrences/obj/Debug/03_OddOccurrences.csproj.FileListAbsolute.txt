@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\03_OddOccurrences\bin\Debug\03_OddOccurrences.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\03_OddOccurrences\bin\Debug\03_OddOccurrences.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\03_OddOccurrences\bin\Debug\03_OddOccurrences.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\03_OddOccurrences\obj\Debug\03_OddOccurrences.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Lab\03_OddOccurrences\obj\Debug\03_OddOccurrences.pdb

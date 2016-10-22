@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\11.GeometryCalculator\bin\Debug\11.GeometryCalculator.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Exercises\11.GeometryCalculator\obj\Debug\11.GeometryCalculator.pdb

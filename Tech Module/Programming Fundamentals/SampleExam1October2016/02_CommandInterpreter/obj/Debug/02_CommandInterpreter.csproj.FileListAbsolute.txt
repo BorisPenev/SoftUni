@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\02_CommandInterpreter\bin\Debug\02_CommandInterpreter.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\SampleExam1October2016\02_CommandInterpreter\obj\Debug\02_CommandInterpreter.csprojResolveAssemblyReference.cache

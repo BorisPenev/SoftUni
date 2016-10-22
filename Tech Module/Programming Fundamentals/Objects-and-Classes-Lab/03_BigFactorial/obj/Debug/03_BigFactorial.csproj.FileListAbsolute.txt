@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\03_BigFactorial\bin\Debug\03_BigFactorial.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\03_BigFactorial\bin\Debug\03_BigFactorial.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\03_BigFactorial\bin\Debug\03_BigFactorial.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\03_BigFactorial\obj\Debug\03_BigFactorial.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\03_BigFactorial\obj\Debug\03_BigFactorial.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Objects-and-Classes-Lab\03_BigFactorial\obj\Debug\03_BigFactorial.pdb

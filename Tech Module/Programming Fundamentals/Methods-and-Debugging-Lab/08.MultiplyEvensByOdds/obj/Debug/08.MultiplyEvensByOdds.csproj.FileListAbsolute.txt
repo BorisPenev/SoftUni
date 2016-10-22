@@ -1,0 +1,5 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\08.MultiplyEvensByOdds\bin\Debug\08.MultiplyEvensByOdds.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Methods-and-Debugging-Lab\08.MultiplyEvensByOdds\obj\Debug\08.MultiplyEvensByOdds.pdb

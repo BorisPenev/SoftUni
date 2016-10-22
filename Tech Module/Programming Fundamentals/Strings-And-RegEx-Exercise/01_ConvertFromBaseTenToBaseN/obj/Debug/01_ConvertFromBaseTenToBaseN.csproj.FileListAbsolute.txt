@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseTenToBaseN\bin\Debug\01_ConvertFromBaseTenToBaseN.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseTenToBaseN\bin\Debug\01_ConvertFromBaseTenToBaseN.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseTenToBaseN\bin\Debug\01_ConvertFromBaseTenToBaseN.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseTenToBaseN\obj\Debug\01_ConvertFromBaseTenToBaseN.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseTenToBaseN\obj\Debug\01_ConvertFromBaseTenToBaseN.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Exercise\01_ConvertFromBaseTenToBaseN\obj\Debug\01_ConvertFromBaseTenToBaseN.pdb

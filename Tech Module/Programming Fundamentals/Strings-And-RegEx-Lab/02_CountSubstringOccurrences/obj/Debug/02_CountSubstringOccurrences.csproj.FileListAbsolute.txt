@@ -1,0 +1,6 @@
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\02_CountSubstringOccurrences\bin\Debug\02_CountSubstringOccurrences.exe.config
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\02_CountSubstringOccurrences\bin\Debug\02_CountSubstringOccurrences.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\02_CountSubstringOccurrences\bin\Debug\02_CountSubstringOccurrences.pdb
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\02_CountSubstringOccurrences\obj\Debug\02_CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\02_CountSubstringOccurrences\obj\Debug\02_CountSubstringOccurrences.exe
+C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Strings-And-RegEx-Lab\02_CountSubstringOccurrences\obj\Debug\02_CountSubstringOccurrences.pdb
