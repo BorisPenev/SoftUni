@@ -4,3 +4,6 @@ C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-List
 C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.csprojResolveAssemblyReference.cache
 C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.exe
 C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Arrays-and-Lists-Exercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.pdb
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Arrays-and-Lists-Exercises\01_LargestCommonEnd\bin\Debug\01_LargestCommonEnd.exe.config
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Arrays-and-Lists-Exercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.exe
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Arrays-and-Lists-Exercises\01_LargestCommonEnd\obj\Debug\01_LargestCommonEnd.pdb

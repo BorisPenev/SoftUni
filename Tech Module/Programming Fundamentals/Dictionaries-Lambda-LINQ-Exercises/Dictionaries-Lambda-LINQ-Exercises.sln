@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Phonebook", "01_Phonebook\01_Phonebook.csproj", "{E1895EEB-BF8A-4676-B902-38F05EB071BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_PhonebookUpgrade", "_02_PhonebookUpgrade\02_PhonebookUpgrade.csproj", "{F9571468-53BE-4DC3-8DF8-60AC0E0C4E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_AMinersTask", "03_AMinersTask\03_AMinersTask.csproj", "{020B374F-5A73-459F-9725-A9A7A2B78077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_FixEmail", "04_FixEmail\04_FixEmail.csproj", "{568B3615-76D4-491C-8140-BC9A92AFC680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{E1895EEB-BF8A-4676-B902-38F05EB071BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1895EEB-BF8A-4676-B902-38F05EB071BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1895EEB-BF8A-4676-B902-38F05EB071BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9571468-53BE-4DC3-8DF8-60AC0E0C4E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9571468-53BE-4DC3-8DF8-60AC0E0C4E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9571468-53BE-4DC3-8DF8-60AC0E0C4E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9571468-53BE-4DC3-8DF8-60AC0E0C4E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{020B374F-5A73-459F-9725-A9A7A2B78077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020B374F-5A73-459F-9725-A9A7A2B78077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020B374F-5A73-459F-9725-A9A7A2B78077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020B374F-5A73-459F-9725-A9A7A2B78077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568B3615-76D4-491C-8140-BC9A92AFC680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568B3615-76D4-491C-8140-BC9A92AFC680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568B3615-76D4-491C-8140-BC9A92AFC680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568B3615-76D4-491C-8140-BC9A92AFC680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

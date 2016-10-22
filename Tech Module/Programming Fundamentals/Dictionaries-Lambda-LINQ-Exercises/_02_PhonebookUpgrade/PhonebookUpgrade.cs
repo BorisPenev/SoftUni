@@ -1,12 +1,14 @@
-﻿namespace _01_Phonebook
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    public class Phonebook
+namespace _02_PhonebookUpgrade
+{
+    class PhonebookUpgrade
     {
-        static void Main()
+        static void Main(string[] args)
         {
             List<string> input = Console.ReadLine().Split(' ').ToList();
             Dictionary<string, string> addressBook = new Dictionary<string, string>();
@@ -35,8 +37,22 @@
                         Console.WriteLine("Contact {0} does not exist.", input[1]);
                     }
                 }
+                else if (input[0].Equals("ListAll"))
+                {
+                    ListAllContacts(addressBook);
+                }
 
                 input = Console.ReadLine().Split(' ').ToList();
+            }
+        }
+
+        public static void ListAllContacts(Dictionary<string, string> dict)
+        {
+            SortedDictionary<string, string> sortedList = new SortedDictionary<string, string>(dict);
+
+            foreach (var item in sortedList)
+            {
+                Console.WriteLine("{0} -> {1}", item.Key, item.Value);
             }
         }
     }

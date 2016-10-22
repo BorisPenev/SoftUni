@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_LargestCommonEnd", "01_LargestCommonEnd\01_LargestCommonEnd.csproj", "{C21525B6-8DE7-4785-A539-F01B9AA39E93}"
 EndProject
@@ -30,6 +30,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_LongestIncreasingSubsequence", "13_LongestIncreasingSubsequence\13_LongestIncreasingSubsequence.csproj", "{B90E6B57-95D3-483D-ADDB-9AFDB2C60643}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_ArrayManipulator", "14_ArrayManipulator\14_ArrayManipulator.csproj", "{00F029D3-7996-426C-8029-5EF12F6F8ED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_SumReversedNumbers", "15_SumReversedNumbers\15_SumReversedNumbers.csproj", "{38B46D28-283A-47DD-A715-086D776F0983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_BombNumbers", "16_BombNumbers\16_BombNumbers.csproj", "{F42B13DE-FC93-47DB-99FB-45DB40DEA611}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{00F029D3-7996-426C-8029-5EF12F6F8ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00F029D3-7996-426C-8029-5EF12F6F8ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00F029D3-7996-426C-8029-5EF12F6F8ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B46D28-283A-47DD-A715-086D776F0983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B46D28-283A-47DD-A715-086D776F0983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B46D28-283A-47DD-A715-086D776F0983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B46D28-283A-47DD-A715-086D776F0983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42B13DE-FC93-47DB-99FB-45DB40DEA611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42B13DE-FC93-47DB-99FB-45DB40DEA611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42B13DE-FC93-47DB-99FB-45DB40DEA611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42B13DE-FC93-47DB-99FB-45DB40DEA611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

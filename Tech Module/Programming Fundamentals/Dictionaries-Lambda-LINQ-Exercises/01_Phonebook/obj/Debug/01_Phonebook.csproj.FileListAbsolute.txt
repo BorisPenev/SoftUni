@@ -4,3 +4,9 @@ C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-La
 C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\obj\Debug\01_Phonebook.csprojResolveAssemblyReference.cache
 C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\obj\Debug\01_Phonebook.exe
 C:\Users\xXx\Documents\Visual Studio 2015\Projects\SoftUni\TF\PB\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\obj\Debug\01_Phonebook.pdb
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\bin\Debug\01_Phonebook.exe.config
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\obj\Debug\01_Phonebook.exe
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\obj\Debug\01_Phonebook.pdb
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\bin\Debug\01_Phonebook.exe
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\bin\Debug\01_Phonebook.pdb
+C:\Users\bbb\Documents\GitHub\SoftUni\Tech Module\Programming Fundamentals\Dictionaries-Lambda-LINQ-Exercises\01_Phonebook\obj\Debug\01_Phonebook.csprojResolveAssemblyReference.cache
